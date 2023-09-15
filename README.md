@@ -1,2 +1,1 @@
-# IGpost2
-post 2 for import testing
+# My IGpost [Here to view](https://gonzaloespinel.github.io/IGpost/)
